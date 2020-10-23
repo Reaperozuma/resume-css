@@ -1,3 +1,3 @@
 # resume-css
-You can view👉 :
+You can view:
 https://reaperozuma.github.io/resume-css/
